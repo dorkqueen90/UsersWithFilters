@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Midterm</string>
+    <string name="female">female</string>
+    <string name="male">male</string>
+    <string name="filter">filter</string>
+    <string name="showall">showAll</string>
+    <string name="gender">gender</string>
+</resources>
